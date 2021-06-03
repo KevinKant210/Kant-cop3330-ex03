@@ -1,10 +1,9 @@
 package org.example;
 
 import java.util.Scanner;
-/**
- * Use a single output statement to produce this output, using appropriate string-escaping techniques for quotes.
- * If your language supports string interpolation or string substitution, don’t use it for this exercise. Use string concatenation instead.
- *
+/*
+ *  UCF COP3330 Summer 2021 Assignment 1 Solutions
+ *  Copyright 2021 Keivn Kant
  */
 public class App 
 {
